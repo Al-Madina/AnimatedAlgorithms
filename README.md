@@ -61,7 +61,7 @@ Bubble Sort is a comparison-based sorting algorithm. It works by repeatedly step
 
 You can find the code for the animated the bubble sort algorithm [here](bubble_sort.py).
 
-![Bubble Sort](https://github.com/Al-Madina/dummyrepo/blob/master/gif/bubble_sort.gif)
+![Bubble Sort](gif/bubble_sort.gif)
 
 #### Best-Case Scenario
 
