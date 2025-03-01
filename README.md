@@ -320,7 +320,7 @@ a _right child_. BST satifies the following properties:
 When a node has no parent (parent = NULL) it is called the _root_ of the tree
 and when a node has no children it is called a _leave_.
 
-You can find the code for the animated BST [here](data_structures/binary_search_tree.py).
+You can find the code for the animated BST ([here](data_structures/binary_search_tree.py) for non-OOP approach - legacy) and ([here](data_structures/tree.py) and [here](data_structures/animation.py) for an OOP approach - preferred approach).
 
 An example of _efficient balanced BST_ is presented below which has a depth
 $O(log(n))$ where $n$ is the number of nodes in the tree.
